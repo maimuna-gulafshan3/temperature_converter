@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-image: url("https://media.istockphoto.com/id/1277304118/photo/panorama-blue-sky-and-clouds-with-daylight-natural-background.jpg?s=612x612&w=0&k=20&c=XtVgitIY6SDZk37FhBYR_fIwNhic3mYklPe952vNDic="); */
+    background-color:#aee0f5;
+}
+#temp-input{
+    margin-top: 30px;
+    height:30px;border-radius: 10px;
+}
+#input-type{
+    margin-top: 30px;
+    height:30px;border-radius: 10px;
+    width:170px;
+}
+h1{
+    color:  rgb(0, 30, 165);
+    text-align: center;
+    text-decoration: underline solid 2px rgb(95, 95, 206);
+}
+#image{
+    width: 600px;
+    height: 200px;
+}
+.main-content{
+    margin: 50px auto ;
+    max-width: 500px;
+    border-radius: 20px;
+    border: 3px solid;
+    text-align: center;
+    padding: 20px 20px;
+    /* background-color: #AAc0aa; */
+}
+#btn{
+    background-color: rgb(31, 31, 183);
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#btn2{
+    background-color: white;
+    color: rgb(95, 95, 206);
+    padding: 10px 20px;
+    width:90px;
+    border-color: rgb(95, 95, 206);
+    border-radius: 15px;
+    cursor: pointer;
+}
+#result{
+    color: rgb(37, 37, 168);
+    font-weight: bolder;
+    text-decoration: underline;
+}
